@@ -1,19 +1,23 @@
 # Installing TagLab
 
 ### Step 0: Dependencies
-Before installing TagLab, be sure to have installed __a 64 bit version of Python 3.7.x, 3.8.x or 3.9.x__, and __NVIDIA CUDA Toolkit__ on Linux or Windows. You can check if they are properly installed by running the following commands in a shell (bash on Linux, poweshell on Windows; for MacOS just check the Python version):
+Before installing TagLab, be sure to have installed __a 64 bit version of Python 3.7.x, 3.8.x or 3.9.x__, and __NVIDIA CUDA Toolkit__ on Linux or Windows. 
 
-```
-python3 --version
-nvcc --version
-```
-If python and cuda are properly installed, both commands will print their versions.
+NVIDIA CUDA Toolkits can be downloaded at the following links:
 
 [CUDA Toolkit 10.2](https://developer.nvidia.com/cuda-11.3.0-download-archive)<br>
 [CUDA Toolkit 11.3](https://developer.nvidia.com/cuda-11.3.0-download-archive)<br>
 [CUDA Toolkit 11.6](https://developer.nvidia.com/cuda-11.3.0-download-archive) (Recommended)<br>
 
 __NOTE: When you install Python under Windows pay attention to add it to the PATH and to Disable PATH Limit Length__ (see the screenshot below)
+
+You can check if they are properly installed by running the following commands in a shell (bash on Linux, poweshell on Windows; for MacOS just check the Python version):
+
+```
+python3 --version
+nvcc --version
+```
+If python and cuda are properly installed, both commands will print their versions.
 
 #### Linux
 
