@@ -9,9 +9,9 @@ nvcc --version
 ```
 If python and cuda are properly installed, both commands will print their versions.
 
-[CUDA Toolkit 10.2](https://developer.nvidia.com/cuda-11.3.0-download-archive)
-[CUDA Toolkit 11.3](https://developer.nvidia.com/cuda-11.3.0-download-archive)
-[CUDA Toolkit 11.6](https://developer.nvidia.com/cuda-11.3.0-download-archive) (Recommended)
+[CUDA Toolkit 10.2](https://developer.nvidia.com/cuda-11.3.0-download-archive)<br>
+[CUDA Toolkit 11.3](https://developer.nvidia.com/cuda-11.3.0-download-archive)<br>
+[CUDA Toolkit 11.6](https://developer.nvidia.com/cuda-11.3.0-download-archive) (Recommended)<br>
 
 __NOTE: When you install Python under Windows pay attention to add it to the PATH and to Disable PATH Limit Length__ (see the screenshot below)
 
