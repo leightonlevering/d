@@ -5,9 +5,9 @@ Before installing TagLab, be sure to have installed __a 64 bit version of Python
 
 NVIDIA CUDA Toolkits can be downloaded at the following links:
 
-[CUDA Toolkit 10.2](https://developer.nvidia.com/cuda-11.3.0-download-archive)<br>
+[CUDA Toolkit 10.2](https://developer.nvidia.com/cuda-10.2.0-download-archive)<br>
 [CUDA Toolkit 11.3](https://developer.nvidia.com/cuda-11.3.0-download-archive)<br>
-[CUDA Toolkit 11.6](https://developer.nvidia.com/cuda-11.3.0-download-archive) (Recommended)<br>
+[CUDA Toolkit 11.6](https://developer.nvidia.com/cuda-11.6.0-download-archive) (Recommended)<br>
 
 __IMPORTANT NOTE: When you install Python under Windows pay attention to add it to the PATH and to Disable PATH Limit Length__ .
 
