@@ -9,6 +9,12 @@ nvcc --version
 ```
 If python and cuda are properly installed, both commands will print their versions.
 
+CUDA Toolkit 10.2
+CUDA Toolkit 11.3 
+CUDA Toolkit 11.6 (Recommended)
+
+__NOTE: When you install Python under Windows pay attention to add it to the PATH and to Disable PATH Limit Length__ (see the screenshot below)
+
 #### Linux
 
 Under Linux, if you use a debian-based distribution (e.g. Ubuntu), except for python and nvcc, there are no other real requirements: the installer will take care of get and install all the dependencies. If you don't use the APT package manager (not ubuntu or debian derived distros), you'll need to install manually the gdal library (the command `gdal-config --version` should output the gdal library version), and `cmake`. Check out for your distribution how to install these two packages!
