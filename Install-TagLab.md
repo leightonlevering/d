@@ -9,7 +9,7 @@ NVIDIA CUDA Toolkits can be downloaded at the following links:
 * [CUDA Toolkit 11.3](https://developer.nvidia.com/cuda-11.3.0-download-archive)<br>
 * [CUDA Toolkit 11.6](https://developer.nvidia.com/cuda-11-6-0-download-archive) (Recommended)<br>
 
-__IMPORTANT NOTE: When you install Python under Windows pay attention to add it to the PATH and to click on Disable PATH Limit Length__ before leaving the setup (see the screenshot below for the PATH). 
+__IMPORTANT NOTE: When you install Python under Windows pay attention to add it to the PATH and to click on Disable PATH Limit Length__ before leaving the setup (see the screenshots below). 
 
 <p align="center"">
 <img src="https://github.com/cnr-isti-vclab/TagLab/blob/devel/docs/python-installation-add-to-PATH.png" width=600px>
