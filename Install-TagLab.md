@@ -13,7 +13,7 @@ __IMPORTANT NOTE: When you install Python under Windows pay attention to add it 
 
 ![](https://github.com/cnr-isti-vclab/TagLab/blob/devel/docs/python-installation-add-to-PATH.png)
 
-You can check if they are properly installed by running the following commands in a shell (bash on Linux, poweshell on Windows; for MacOS just check the Python version):
+You can check if Python and CUDA are properly installed by running the following commands in a shell (bash on Linux, poweshell on Windows; for MacOS just check the Python version):
 
 ```
 python3 --version
