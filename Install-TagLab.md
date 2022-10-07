@@ -78,6 +78,5 @@ To test if TagLab works correctly, try to open the sample project available in t
 
 ### Troubleshooting
 
-* If PyQt not work properly under WIndows (e.g. import problems when TagLab is launched) perhaps the Microsoft Redistributable is not installed.
-  Download and install it using this [link](https://aka.ms/vs/17/release/vc_redist.x64.exe) .
+* If PyQt not work properly under WIndows (e.g. import problems when TagLab is launched) perhaps the Microsoft Visual C++ Redistributable is not installed on your machine. Download and install it using this [link](https://aka.ms/vs/17/release/vc_redist.x64.exe) .
 
