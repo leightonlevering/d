@@ -74,3 +74,10 @@ python.exe taglab.py
 ```
 
 To test if TagLab works correctly, try to open the sample project available in the `projects` folder.
+
+
+### Troubleshooting
+
+* If PyQt not work properly under WIndows (import problems when TagLab is launched) perhaps the Microsoft Redistributable is not installed.
+  Download and install it using this [link](https://aka.ms/vs/17/release/vc_redist.x64.exe) .
+
