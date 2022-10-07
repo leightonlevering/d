@@ -12,8 +12,8 @@ NVIDIA CUDA Toolkits can be downloaded at the following links:
 __IMPORTANT NOTE: When you install Python under Windows pay attention to add it to the PATH and to click on Disable PATH Limit Length__ before leaving the setup (see the screenshots below). 
 
 <p align="center"">
-<img src="https://github.com/cnr-isti-vclab/TagLab/blob/devel/docs/python-installation-add-to-PATH.png" width=600px>
-<img src="https://github.com/cnr-isti-vclab/TagLab/blob/devel/docs/python-disable-path-length-limit.png" width=600px>
+<img src="https://github.com/cnr-isti-vclab/TagLab/blob/main/docs/python-installation-add-to-PATH.png" width=600px>
+<img src="https://github.com/cnr-isti-vclab/TagLab/blob/main/docs/python-disable-path-length-limit.png" width=600px>
 </p>
 
 You can check if Python and CUDA are properly installed by running the following commands in a shell (bash on Linux, poweshell on Windows; for MacOS just check the Python version):
