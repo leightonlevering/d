@@ -25,6 +25,10 @@ nvcc --version
 ```
 If python and cuda are properly installed, both commands will print their versions.
 
+#### Windows
+
+Under Windows, you need also the Microsoft Build Tools. Download them from this [link](https://visualstudio.microsoft.com/visual-cpp-build-tools). The setup will give you many options, to proceed with the installation of the Build Tools simply click the bottom right button without make any selections/changes. 
+
 #### Linux
 
 Under Linux, if you use a debian-based distribution (e.g. Ubuntu), except for python and nvcc, there are no other real requirements: the installer will take care of get and install all the dependencies. If you don't use the APT package manager (not ubuntu or debian derived distros), you'll need to install manually the gdal library (the command `gdal-config --version` should output the gdal library version), and `cmake`. Check out for your distribution how to install these two packages!
