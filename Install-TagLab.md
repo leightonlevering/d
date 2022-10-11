@@ -1,7 +1,8 @@
 # Installing TagLab
 
 ### Step 0: Dependencies
-Before installing TagLab, be sure to have installed __a 64 bit version of Python 3.7.x, 3.8.x or 3.9.x__, and __NVIDIA CUDA Toolkit__ on Linux or Windows. 
+
+Before installing TagLab, be sure to have installed __a 64 bit version of Python 3.7.x, 3.8.x or 3.9.x__, and __NVIDIA CUDA Toolkit__ on Linux or Windows.
 
 NVIDIA CUDA Toolkits can be downloaded at the following links:
 
@@ -79,7 +80,7 @@ python.exe taglab.py
 To test if TagLab works correctly, try to open the sample project available in the `projects` folder.
 
 
-### Troubleshooting
+### Known problems and how to solve them
 
 * If PyQt not work properly under WIndows (e.g. import problems when TagLab is launched) perhaps the Microsoft Visual C++ Redistributable is not installed on your machine. Download and install it using this [link](https://aka.ms/vs/17/release/vc_redist.x64.exe) .
 
