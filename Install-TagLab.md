@@ -86,7 +86,7 @@ To test if TagLab works correctly, try to open the sample project available in t
 
 ### Known problems and how to solve them
 
-* The update of the 7th of October 2022 introduce a dependency from pycocotools to export dataset in COCO format. After this update you need
+* The update of the 7th of October 2022 introduce a dependency from `pycocotools` to export dataset in COCO format. After this update you need
 to install Microsoft Visual C++ Build Tools from this link [link](https://visualstudio.microsoft.com/visual-cpp-build-tools) (for Windows) and re-run install.py. 
 
 * If PyQt not work properly under WIndows (e.g. import problems when TagLab is launched) perhaps the Microsoft Visual C++ Redistributable is not installed on your machine. Download and install it using this [link](https://aka.ms/vs/17/release/vc_redist.x64.exe) .
