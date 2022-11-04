@@ -27,7 +27,7 @@ If python and cuda are properly installed, both commands will print their versio
 
 #### Windows
 
-Under Windows, you need also the Microsoft C++ Build Tools. Download them from this [link](https://visualstudio.microsoft.com/visual-cpp-build-tools). The setup will give you many options, to proceed with the installation of the Build Tools simply click the Install button (at the bottom-right of the setup interface) without make any selections/changes. 
+Under Windows, you need also to install the Visual Studio Redistributable. Download them from this [link](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170). 
 
 #### Linux
 
