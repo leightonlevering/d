@@ -92,5 +92,7 @@ to install Microsoft Visual C++ Build Tools from this link [link](https://visual
 
 * If PyQt not work properly under WIndows (e.g. import problems when TagLab is launched) perhaps the Microsoft Visual C++ Redistributable is not installed on your machine. Download and install it using this [link](https://aka.ms/vs/17/release/vc_redist.x64.exe) .
 
+* Note that, starting from the release of 8th of March 2023, Python 3.7 is no more supported.
+
 
 
